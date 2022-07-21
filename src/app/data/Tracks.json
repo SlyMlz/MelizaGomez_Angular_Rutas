@@ -1,0 +1,40 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Battery",
+            "album": "Master of Puppets",
+            "cover": "https://jenesaispop.com/wp-content/uploads/guette_onelove.jpg",
+            "artist": {
+                "name": "David Guetta",
+                "nickname": "David guetta",
+                "nationality": "FR"
+            },
+            "duration":{
+                "start":0,
+                "end":333
+            },
+            "url":"http://localhost:3000/track.mp3"
+            
+        },
+
+
+        {
+            "id":2,
+            "name":"Chirst",
+            "album": "Generación 12",
+            "cover": "https://jenesaispop.com/wp-content/uploads/guette_onelove.jpg",
+            "artist": {
+                "name": "David Guetta",
+                "nickname": "David guetta",
+                "nationality": "FR"
+            },
+            "duration":{
+                "start":0,
+                "end":333
+            },
+            "url":"http://localhost:3000/track.mp3"
+            
+        }
+    ]
+}
